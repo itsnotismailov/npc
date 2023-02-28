@@ -6,6 +6,7 @@ const Home = () => {
         <div>
             Home
             <Link to='/menu'>Menu</Link>
+            sas
         </div>
     );
 };
